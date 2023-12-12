@@ -1,10 +1,10 @@
 The rather turbulent name history of a chat app made by vincent.
 
-| No. | Name            | Date with link | Days lasted |
-|:---:|:----------------|:---------------|------------:|
-|  1  | Derailed Games  | x              |           x |
-|  2  | Stardevil Games | x              |           x |
-|  3  | Wētā Games      | x              | counting... |
+| No. | Name            | Date       | Days lasted |
+|:---:|:----------------|:-----------|------------:|
+|  1  | Derailed Games  | 2023-10-06 |          47 |
+|  2  | Stardevil Games | 2023-11-22 |          20 |
+|  3  | Wētā Games      | 2023-12-12 | counting... |
 
 
 
