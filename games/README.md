@@ -1,4 +1,4 @@
-The rather turbulent name history of a chat app made by vincent.
+The rather turbulent name history of a games divions (what in the holy cucumber) made by vincent.
 
 | No. | Name            | Date       | Days lasted |
 |:---:|:----------------|:-----------|------------:|
