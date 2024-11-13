@@ -1,5 +1,4 @@
 The rather turbulent name history of a chat app made by vincent.
-The rather turbulent name history of a chat app made by vincent.
 
 | No. | Name         | Date with link                                                                                                                                                                        | Days lasted |
 |:---:|:-------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
