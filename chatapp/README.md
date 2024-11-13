@@ -53,48 +53,47 @@ The rather turbulent name history of a chat app made by vincent.
 title Names of Vincent's Chat App
 ---
 flowchart TD
-
-Stancium[1. Stancium] --> okemiahatsu[2. Okemia / Hatsu]
-okemiahatsu --> Ayaka[3. Ayaka]
-Ayaka --> Vercal[4. Vercal]
-Vercal --> Rails[5. Rails]
-Rails --> Factions[6. Factions]
-Factions --> Rockstarchat[7. Rockstarchat]
-Rockstarchat --> Concord[8., 26. Concord]
-Concord --> Scales[9. Scales]
-Scales --> Redux[10. Redux]
-Redux --> Neoform[11. Neoform]
-Neoform --> Mastadon[12. Mastadon]
-Mastadon --> Venera[13. Venera]
-Venera --> Derailed[14., 24., 27., 30., 32., 35., 40., 42., 44. Derailed]
-Derailed --> Plufify[15. Plufify]
-Plufify --> Elasic[16. Elasic]
-Elasic --> Docked[17. Docked]
-Docked --> Discend[18., 33. Discend]
-Discend --> Snux[19. Snux]
-Snux --> Couchhub[20. Couchhub]
-Couchhub --> Decker[21. Decker]
-Decker --> Telescope[22. Telescope]
-Telescope --> Itch[23. Itch]
+Stancium[1.Stancium] --> okemiahatsu[2.Okemia / Hatsu]
+okemiahatsu --> Ayaka[3.Ayaka]
+Ayaka --> Vercal[4.Vercal]
+Vercal --> Rails[5.Rails]
+Rails --> Factions[6.Factions]
+Factions --> Rockstarchat[7.Rockstarchat]
+Rockstarchat --> Concord[8.,26.Concord]
+Concord --> Scales[9.Scales]
+Scales --> Redux[10.Redux]
+Redux --> Neoform[11.Neoform]
+Neoform --> Mastadon[12.Mastadon]
+Mastadon --> Venera[13.Venera]
+Venera --> Derailed[14.,24.,27.,30.,32.,35.,40.,42.,44.Derailed]
+Derailed --> Plufify[15.Plufify]
+Plufify --> Elasic[16.Elasic]
+Elasic --> Docked[17.Docked]
+Docked --> Discend[18.,33.Discend]
+Discend --> Snux[19.Snux]
+Snux --> Couchhub[20.Couchhub]
+Couchhub --> Decker[21.Decker]
+Decker --> Telescope[22.Telescope]
+Telescope --> Itch[23.Itch]
 Itch --> Derailed
-Derailed --> Recorder[25. Recorder]
+Derailed --> Recorder[25.Recorder]
 Recorder --> Concord
 Concord --> Derailed
-Derailed --> Felladex[28. Felladex]
-Felladex --> VINCENTCHAT[29. VINCENTCHAT]
+Derailed --> Felladex[28.Felladex]
+Felladex --> VINCENTCHAT[29.VINCENTCHAT]
 VINCENTCHAT --> Derailed
-Derailed --> Bickerchat[31. Bickerchat]
+Derailed --> Bickerchat[31.Bickerchat]
 Bickerchat --> Derailed
 Derailed --> Discend
-Discend --> Onamii[34. Onamii]
+Discend --> Onamii[34.Onamii]
 Onamii --> Derailed
-Derailed --> Dunochat[36. Dunochat]
-Dunochat --> Rousterapp[37. Rousterapp]
-Rousterapp --> Dunoio[378 Dunoio]
-Dunoio --> Dunerio[39. Dunerio]
+Derailed --> Dunochat[36.Dunochat]
+Dunochat --> Rousterapp[37.Rousterapp]
+Rousterapp --> Dunoio[38.Dunoio]
+Dunoio --> Dunerio[39.Dunerio]
 Dunerio --> Derailed
-Derailed --> Droided[41. Droided]
+Derailed --> Droided[41.Droided]
 Droided --> Derailed
-Derailed --> Discoursy[43. Discoursy]
+Derailed --> Discoursy[43.Discoursy]
 Discoursy --> Derailed
 ```
